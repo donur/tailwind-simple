@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-simple",
+  "version": "1.0.0",
+  "description": "It was created to learn about using Tailwind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donur/tailwind-simple.git"
+  },
+  "keywords": [],
+  "author": "Onur Dogan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donur/tailwind-simple/issues"
+  },
+  "homepage": "https://github.com/donur/tailwind-simple#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.16"
+  }
+}
